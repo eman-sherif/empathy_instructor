@@ -3,7 +3,7 @@ import { useState } from 'react'
 function App() {
   const phrases = [
     "I'm struggling to keep up with the coursework and feel like I'm falling behind everyone else. I don't know how to ask for help without feeling embarrassed.",
-    "I have a learning disability that makes reading long texts really difficult. I haven't told anyone because I'm worried it will change how people see me.",
+    "I have a learning disability that makes working on programming assignments really difficult. I haven't told my peers because I'm worried it will change how people see me.",
     "I'm dealing with a family emergency at home and I can't focus during class. I'm afraid my grades will drop and I'll lose my scholarship.",
     "I feel like I don't belong in this class — everyone else seems so confident and I wonder if I'm smart enough to be here.",
     "I'm working two jobs to pay for school and I'm exhausted. I miss some classes and I'm terrified to tell my instructor why."
